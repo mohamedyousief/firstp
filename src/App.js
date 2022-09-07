@@ -26,7 +26,7 @@ const App = () => {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [nextX, winner, screen]);
   //All state
-
+// asdawlmd;as,da
   //function
 
   function cpuNextMove (sqrs){
